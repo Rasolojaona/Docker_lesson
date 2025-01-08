@@ -1,0 +1,7 @@
+# .gitignore
+
+# Ignorer les dossiers de stockage de données, logs, configurations sensibles
+gitlab/data/data/
+gitlab/data/logs/
+gitlab/data/config/secret.yml
+*.log
